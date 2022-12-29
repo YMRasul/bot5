@@ -1,1 +1,1 @@
-# bot5
+Oylik ish haqi ma'lumotlari 
